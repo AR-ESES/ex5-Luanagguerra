@@ -1,4 +1,5 @@
 class Plate {
+  
   constructor(x, w) {
     this.x = x;
     this.w = w;
