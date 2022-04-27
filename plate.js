@@ -1,5 +1,4 @@
 class Plate {
-  
   constructor(x, w) {
     this.x = x;
     this.w = w;
@@ -21,3 +20,4 @@ class Plate {
     rect(this.x, this.y, this.w, this.h);
   }
 }
+
